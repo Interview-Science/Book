@@ -6,24 +6,24 @@ sidebar_position: 1
 
 ## What is this?
 
-这是一本软件工程师求职指南，涵盖了制定计划，工作申请，面试准备以及薪资谈判的详细流程。希望能够帮助到求职中的你。
+This is a software engineer job search guide that covers the detailed process of developing a plan, applying for a job, preparing for an interview, and negotiating a salary. We hope it will help you in your job search.
 
-## 为什么你需要这本指南
+## Why you need this guide
 
-网络上有许多求职方面的资料，不过质量参差不齐而且比较分散，需要大量精力才能筛选以及找到合适自己的内容。本求职指南由几位资深工程师和 HR 认真撰写和审阅，其中包括 FANNG 的现任员工以及前任员工。希望能够通过我们的经验帮助你按部就班地进入到自己梦想的公司。
+There are many job search materials on the Internet, but the quality varies and is rather scattered, requiring a lot of effort to filter and find the right content for you. This job search guide has been carefully written and reviewed by several senior engineers and HR, including current and former FANNG employees. We hope that our experience will help you get on track to get into your dream company.
 
-## 谁应该阅读这本指南
+## Who should read this guide
 
-1. 你的目标是脸书，亚马逊，苹果，奈飞和谷歌等大公司的软件工程师，因为这些公司的面试流程以及考核内容比较相似，可以用同样的方法来准备。
-2. 你想去的公司并不是这些大的科技公司，除了阅读本指南之外，你需要根据该公司的面试考核内容来进行针对性复习。 
-3. 你想成为数据科学家或者机器学习工程师，除了阅读本指南之外，你需要通过其他渠道学习特定领域的技术内容。
+1. You are targeting software engineers at big companies like Facebook, Amazon, Apple, Nifty and Google, as the interview process as well as the assessment content of these companies are relatively similar and can be prepared in the same way.
+2. the company you want to work for is not one of these large technology companies, in addition to reading this guide, you need to target review according to the content of the company's interview assessment. 
+3. you want to become a data scientist or machine learning engineer, in addition to reading this guide, you need to learn the technical content of the specific field through other channels.
 
-## 如何使用这本指南
-如果你还没有开始投递简历，那么你应该从头开始阅读本指南。否则你可以根据现在的阶段来选择合适的章节进行阅读，同时在每篇文章后面我们都会推荐一些阅读资料。
+## How to use this guide
+If you haven't started submitting your resume yet, then you should start reading this guide from the beginning. Otherwise you can choose the right chapters to read depending on your current stage, while we will recommend some reading material after each article.
 
-### 参考资料
+### Recommendation
 
-- [Tech Interview Handbook](https://techinterviewhandbook.org/introduction/)：这本书给了我创作本书的灵感，即使你已经阅读过该书，阅读本指南也能给你带来帮助。
 - [程序员面试金典](https://book.douban.com/subject/34813624/)：优秀的面试准备书籍，涵盖了本指南没有涉及的一些领域，推荐大家去阅读。
 - [算法导论](https://book.douban.com/subject/20432061/)：学习算法的顶尖教程，本指南的算法指南参考了它的叙述方式。
 - [谷歌模式](https://m.douban.com/book/subject/26236445/)：这本书很好地回答了如何进行高效的团队管理以及面试中如何回答行为问题。
+- [Tech Interview Handbook](https://techinterviewhandbook.org/introduction/)：这本书给了我创作本书的灵感，即使你已经阅读过该书，阅读本指南也能给你带来帮助。

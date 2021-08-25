@@ -2,28 +2,34 @@
 sidebar_position: 1
 ---
 
-# Introduce
+# Introduction
 
 ## What is this?
 
-This is a software engineer job search guide that covers the detailed process of developing a plan, applying for a job, preparing for an interview, and negotiating a salary. We hope it will help you in your job search.
+This is an e-book powering you to work in big-tech companies as a software engineer step by step. It involves the following phases: 
+
+1. Preparation : explore your career planning, draw up and carry out your plan effectively;
+2. Job searching and Interview: resume preparation and interviewing skills;
+3. Offer selection: offer comparision and salary negotiation;
+4. Algorithm notes: common algrithm patterns and key points.
 
 ## Why you need this guide
 
-There are many job search materials on the Internet, but the quality varies and is rather scattered, requiring a lot of effort to filter and find the right content for you. This job search guide has been carefully written and reviewed by several senior engineers and HR, including current and former FANNG employees. We hope that our experience will help you get on track to get into your dream company.
+There are many scattered job searching information on the Internet, but the quality is uneven, which requires a lot of effort and time to find the one you need. This e-book was editted and reviewed by several FANNG(Facebook, Amazon, Apple, Nifty and Google) senior engineers and HR, including current and former employees. 
 
 ## Who should read this guide
 
-1. You are targeting software engineers at big companies like Facebook, Amazon, Apple, Nifty and Google, as the interview process as well as the assessment content of these companies are relatively similar and can be prepared in the same way.
-2. the company you want to work for is not one of these large technology companies, in addition to reading this guide, you need to target review according to the content of the company's interview assessment. 
-3. you want to become a data scientist or machine learning engineer, in addition to reading this guide, you need to learn the technical content of the specific field through other channels.
+1. People who are targeting software engineers at companies like FANNG. As the interview process and assessment of these companies are relatively similar and can be prepared in the same way; 
+2. Poeple who are targeting the other tech-companies but have the similar interview assessment as FANNG;
 
 ## How to use this guide
-If you haven't started submitting your resume yet, then you should start reading this guide from the beginning. Otherwise you can choose the right chapters to read depending on your current stage, while we will recommend some reading material after each article.
+
+If you haven't started preparation, you're higly recommended to read this guide from the very beginning; or you can choose the right chapters based on your current situatuin. At the end of each article, we will recommend some reading materials for your reference. 
 
 ### Recommendation
 
-- [程序员面试金典](https://book.douban.com/subject/34813624/)：优秀的面试准备书籍，涵盖了本指南没有涉及的一些领域，推荐大家去阅读。
-- [算法导论](https://book.douban.com/subject/20432061/)：学习算法的顶尖教程，本指南的算法指南参考了它的叙述方式。
-- [谷歌模式](https://m.douban.com/book/subject/26236445/)：这本书很好地回答了如何进行高效的团队管理以及面试中如何回答行为问题。
-- [Tech Interview Handbook](https://techinterviewhandbook.org/introduction/)：这本书给了我创作本书的灵感，即使你已经阅读过该书，阅读本指南也能给你带来帮助。
+- *[Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)*: an excellent book for interview preparation that covers areas not involved in this guide.
+- *[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)*: the top tutorial of learning algorithms in a profond but easy-understanding approach; It explaination to dynamic progrmming and greedy algorithm contributes a lot to algorithm interview.
+- *[How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328)*: a book teachs you how to make effective team managment and answer behavioral questions by providing abundant stories and insights views. 
+- *[Tech Interview Handbook](https://techinterviewhandbook.org/)*: a e-book inspired us to write this guide and even if you've already read this book, this guide is still worth reading. 
+

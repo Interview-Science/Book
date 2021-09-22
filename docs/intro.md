@@ -2,34 +2,40 @@
 sidebar_position: 1
 ---
 
-# 📖 Introduction
+# 📖 前言
 
-## What is this?
+## 这是什么？
 
-This is an e-book powering you to work in big-tech companies as a software engineer step by step. It involves the following phases: 
+这是指引你成为 Big Five (Amazon, Apple, Google (Alphabet), Facebook, 和 Microsoft) 工程师的指南。包括以下内容：
 
-1. Preparation : explore your career planning, draw up and carry out your plan effectively;
-2. Job searching and Interview: resume preparation and interviewing skills;
-3. Offer selection: offer comparision and salary negotiation;
-4. Algorithm notes: common algrithm patterns and key points.
+1. 前期分析：了解工程师的市场需求以及面试要求，探索适合自己的发展方向
+2. 面试准备：参与开源项目，选择个人项目，学习算法以及系统设计
+3. 寻找机会：使用领英，Hackernews 等平台建立关系网或投递简历
+4. 面试流程：常规的面试流程，时间间隔以及注意要点
+5. Offer 选择：了解市场薪资水平，通过谈薪后选择合适的 Offer
+6. 算法指南：针对不同类型的算法题技巧
 
-## Why you need this guide
+## 为什么你需要这本指南？
 
-There are many scattered job searching information on the Internet, but the quality is uneven, which requires a lot of effort and time to find the one you need. This e-book was editted and reviewed by several FANNG(Facebook, Amazon, Apple, Nifty and Google) senior engineers and HR, including current and former employees. 
+1. 市面上有许多软件工程师求职相关的资讯，不过它们过于分散，而且并不是针对 Big Five 所写。求职者需要花大量时间来筛选合适自己的内容。
+2. 本指南会关注一些其他书籍没有提到的内容，如学会正确的练习方法，以及正确的代码风格。
+3. 本指南由几位 Big Five 的前雇员以及现任雇员所撰写以及审阅（包括工程师以及 HR），更具参考价值。
 
-## Who should read this guide
+## 面试科学？
+你可能觉得本指南将面试比作科学是不可思议的一件事。但如《经济学原理》中所说的：
 
-1. People who are targeting software engineers at companies like FANNG. As the interview process and assessment of these companies are relatively similar and can be prepared in the same way; 
-2. Poeple who are targeting the other tech-companies but have the similar interview assessment as FANNG;
+> “科学的本质是科学方法 - 冷静地建立并检验有关世界如何运行的各种理论。”
 
-## How to use this guide
+在求职过程中，我们从过往的经验以及网络上的信息会形成一些想法（理论），例如某些公司特别重视企业文化，面试它们之前之前在企业文化方面上需要多花时间准备。在这个过程中，我们会收集身边以及网络上的数据（收集数据），如其他求职者的面试经验分享，通过分析这些数据来证明或者否定自己原本的经验。（分析数据）（图）
 
-If you haven't started preparation, you're higly recommended to read this guide from the very beginning; or you can choose the right chapters based on your current situatuin. At the end of each article, we will recommend some reading materials for your reference. 
+面试与经济学相似，它们都无法像物理学一样，通过固定变量来进行重复实验，它们更依赖于历史数据，通过研究这些历史数据，除了能够对过去更加了解之外，还能对未来的理论进行分析。就面试而言，通过分析身边或者网络上面试成功以及失败的案例，你能够总结出一些面试的原理以及理论，并且使用这些理论来指导下一次面试之前应该如何准备。
 
-### Recommendation
+## 如何使用这本指南？
 
-- *[Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)*: an excellent book for interview preparation that covers areas not involved in this guide.
-- *[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)*: the top tutorial of learning algorithms in a profond but easy-understanding approach; It explaination to dynamic progrmming and greedy algorithm contributes a lot to algorithm interview.
-- *[How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328)*: a book teachs you how to make effective team managment and answer behavioral questions by providing abundant stories and insights views. 
-- *[Tech Interview Handbook](https://techinterviewhandbook.org/)*: a e-book inspired us to write this guide and even if you've already read this book, this guide is still worth reading. 
+你可以根据自己现在的阶段选择合适的章节进行阅读，同时在每篇文章的结尾，我们都会推荐一些补充阅读内容。
 
+## 推荐阅读
+
+- [《程序员面试金典（第6版）》](https://book.douban.com/subject/34813624/)：一本出色的程序员面试准备书籍，涵盖了一些本指南没有涉及的范畴
+- [《重新定义公司》](https://book.douban.com/subject/26582822/): 通过大量的案例以及精辟的观点，教导如何有效进行团队管理以及招募人才，适合用于回答面试中的非技术问题
+- *[Tech Interview Handbook](https://techinterviewhandbook.org/)*: 该电子书赋予了我们撰写本指南的灵感，即使你已经阅读了该电子书，本指南也能给你一些帮助

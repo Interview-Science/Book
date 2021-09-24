@@ -7,7 +7,7 @@ module.exports = {
   tagline: 'Welcome to Interview Science',
   url: 'https://interview-science.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Interview Science',

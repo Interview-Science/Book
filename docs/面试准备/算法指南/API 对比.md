@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# API Comparison
+# API 对比
 
 | Java        | Python      | C++         |
 |----------- | ----------- | ----------- |

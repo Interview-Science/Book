@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # API 对比
 
+以下为三种常见的编程语言 API 的对比表格，希望可以帮助你理解其他人的代码。
+
 | Java        | Python      | C++         |
 |----------- | ----------- | ----------- |
 | [ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html) <ul><li>arr.add(val)</li><li>arr.insert(i, val)</li><li>arr.get(i)</li><li>arr.set(i, val)</li><li>arr.remove(val)</li></ul>   | [List](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists) <ul><li>arr.append(val)</li><li>arr.insert(i, val)</li><li>arr[i]</li><li>arr[i] = val</li><li>arr.remove(val)</li></ul>        | [vector](https://www.cplusplus.com/reference/vector/vector/) <ul><li>arr.push_back(val)</li><li>arr.insert(i, val)</li><li>arr[i]</li><li>arr[i] = val</li><li> - </li></ul>       |

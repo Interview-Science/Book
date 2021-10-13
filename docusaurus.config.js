@@ -22,9 +22,9 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
           position: 'left',
-          label: 'Contents',
+          docId: 'intro',
+          label: 'Docs',
         },
       ],
     },
@@ -35,8 +35,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Contents',
-              to: '/docs/intro',
+              label: 'Docs',
+              to: '/',
             },
           ],
         },

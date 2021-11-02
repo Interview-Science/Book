@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Interview Science',
   tagline: 'Welcome to Interview Science',
-  url: 'https://interview-science.com',
+  url: 'https://interview-science.org',
   baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',

@@ -14,7 +14,7 @@ module.exports = {
   projectName: 'Interview Science',
   themeConfig: {
     googleAnalytics: {
-      trackingID: 'G-KTNGLZ91ZM',
+      trackingID: 'UA-212814803-1',
     },
     navbar: {
       title: 'Interview Science',

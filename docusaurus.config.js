@@ -13,6 +13,9 @@ module.exports = {
   organizationName: 'Interview Science',
   projectName: 'Interview Science',
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'G-KTNGLZ91ZM',
+    },
     navbar: {
       title: 'Interview Science',
       logo: {

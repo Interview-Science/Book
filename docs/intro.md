@@ -5,6 +5,8 @@ slug: /
 
 # 📖 前言
 
+> 本指南作为我们给下一代工程师的另一种贡献。
+
 ## 这是什么？
 
 这是一本帮助你成为 Big Five (Amazon, Apple, Google (Alphabet), Facebook (Meta), 和 Microsoft) 软件工程师的求职指南，涵盖以下几部分内容：

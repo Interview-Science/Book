@@ -16,4 +16,4 @@ sidebar_position: 80
 
 ### 现在的面试算法题是越来越难了吗？
 
-是的，随着时间的推移，大家懂得如何更有效地训练后，整个行业的面试门槛都提高了。[Moishe Lettvin - What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0) 提到，有一次 HR 选了数位求职者的面试反馈交由谷歌的招聘委员会商议是否批准 Offer，得到的答复是全部拒绝，但是 HR 选择的面试反馈正是这些招聘委员会成员当初面试谷歌的反馈！这些事情不单单发生在计算机行业，对于竞争强，高度训练化的行业，例如音乐，长跑等，都出现同样的情况，长跑奥运冠军约翰尼·海耶斯（Johnny Hayes）在 1908 年创造的世界纪录，如果换到今天的波士顿马拉松比赛中，只够刚刚赢得参赛资格。
+是的，随着时间的推移，大家懂得如何更有效地训练后，整个行业的面试门槛都提高了。[Moishe Lettvin - What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0) 提到，有一次 HR 选了数位求职者的面试反馈交由谷歌的招聘委员会商议是否批准 Offer，得到的答复是全部拒绝，但是 HR 选择的面试反馈正是这些招聘委员会成员当初面试谷歌的反馈！这也是你需要掌握[其他内容](https://interview-science.org/%E7%AE%97%E6%B3%95%E6%8C%87%E5%8D%97/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9)中的特殊解法的原因。这些事情不单单发生在计算机行业，对于竞争强，高度训练化的行业，例如音乐，长跑等，都出现同样的情况，长跑奥运冠军约翰尼·海耶斯（Johnny Hayes）在 1908 年创造的世界纪录，如果换到今天的波士顿马拉松比赛中，只够刚刚赢得参赛资格。

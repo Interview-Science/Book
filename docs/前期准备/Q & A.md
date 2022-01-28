@@ -1,5 +1,8 @@
 ---
 sidebar_position: 80
+tags:
+  - Demo
+  - Getting started
 ---
 
 # Q & A

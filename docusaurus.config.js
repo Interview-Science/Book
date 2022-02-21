@@ -15,9 +15,6 @@ module.exports = {
   organizationName: 'Interview Science',
   projectName: 'Interview Science',
   themeConfig: {
-    googleAnalytics: {
-      trackingID: 'UA-212814803-1',
-    },
     navbar: {
       title: 'Interview Science',
       logo: {
@@ -69,7 +66,11 @@ module.exports = {
   presets: [
     [
       '@docusaurus/preset-classic',
+
       {
+        googleAnalytics: {
+          trackingID: 'UA-212814803-1',
+        },
         docs: {
           routeBasePath: '/',
           remarkPlugins: [math],

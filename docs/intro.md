@@ -9,7 +9,7 @@ slug: /
 
 ## 这是什么？
 
-这是一本帮助你成为 Big Five (Amazon, Apple, Google (Alphabet), Facebook (Meta), 和 Microsoft) 软件工程师的求职指南，涵盖以下几部分内容：
+这是一本帮助你成为 Big Five (Amazon, Apple, Google, Meta 和 Microsoft) 软件工程师的求职指南，涵盖以下几部分内容：
 
 1. 前期准备：了解工程师的市场需求以及面试要求，探索适合自己的发展方向。
 2. 学习指南：包括算法指南，项目介绍，系统设计等面试考核内容的学习方法与资料。

@@ -21,14 +21,6 @@ module.exports = {
         alt: 'Interview Science',
         src: 'img/logo.svg',
       },
-      items: [
-        {
-          type: 'doc',
-          position: 'left',
-          docId: 'intro',
-          label: 'Docs',
-        },
-      ],
     },
     footer: {
       style: 'dark',

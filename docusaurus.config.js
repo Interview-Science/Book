@@ -38,8 +38,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Contact',
+              to: 'mailto:hello@interview-science.org',
             },
             {
               label: 'GitHub',

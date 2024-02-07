@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="406 456 966 305" width="966" height="305">
+  <defs>
+    <font-face font-family="Roboto" font-size="13" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Roboto-Bold"/>
+      </font-face-src>
+    </font-face>
+    <clipPath id="inner_stroke_clip_path">
+      <path d="M 765.1429 516 L 901.1429 516 L 901.1429 628 L 765.1429 628 Z"/>
+    </clipPath>
+    <font-face font-family="Roboto" font-size="10" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="12" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <clipPath id="inner_stroke_clip_path_2">
+      <path d="M 571.14286 512.12245 L 685.14286 512.12245 L 685.14286 568.12245 L 571.14286 568.12245 Z"/>
+    </clipPath>
+    <clipPath id="inner_stroke_clip_path_3">
+      <path d="M 571.14286 625 L 685.14286 625 L 685.14286 681 L 571.14286 681 Z"/>
+    </clipPath>
+    <clipPath id="inner_stroke_clip_path_4">
+      <path d="M 1052.6627 528.5 L 1188.6627 528.5 L 1188.6627 615.5 L 1052.6627 615.5 Z"/>
+    </clipPath>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="TreehouseArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -5 10 10" markerWidth="10" markerHeight="10" color="#616161">
+      <g>
+        <path d="M 8 0 L 0 0 M 4 -4 L 8 0 L 4 4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <clipPath id="inner_stroke_clip_path_5">
+      <path d="M 1057.1429 675.4187 L 1193.1429 675.4187 L 1193.1429 742.2257 L 1057.1429 742.2257 Z"/>
+    </clipPath>
+    <clipPath id="inner_stroke_clip_path_6">
+      <path d="M 757.2553 689.8083 L 909.0304 689.8083 L 909.0304 742.2257 L 757.2553 742.2257 Z"/>
+    </clipPath>
+    <clipPath id="inner_stroke_clip_path_7">
+      <path d="M 427.12245 512.12245 L 527.12245 512.12245 L 527.12245 568.12245 L 427.12245 568.12245 Z"/>
+    </clipPath>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="TreehouseArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -5 10 10" markerWidth="10" markerHeight="10" color="#5e5e5e">
+      <g>
+        <path d="M 8 0 L 0 0 M 4 -4 L 8 0 L 4 4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <clipPath id="inner_stroke_clip_path_8">
+      <path d="M 1248.1516 544 L 1348.1516 544 L 1348.1516 600 L 1248.1516 600 Z"/>
+    </clipPath>
+    <clipPath id="inner_stroke_clip_path_9">
+      <path d="M 1248.1516 680.8222 L 1348.1516 680.8222 L 1348.1516 736.8222 L 1248.1516 736.8222 Z"/>
+    </clipPath>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="TreehouseArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -5 10 10" markerWidth="10" markerHeight="10" color="#5e5e5e">
+      <g>
+        <path d="M -8 0 L 0 0 M -4 4 L -8 0 L -4 -4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18\n2020-12-02 21:47:27 +0000</metadata>
+  <g id="Need_help_with_a_architecture_diagram_for_NEXT_2020" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Need help with a architecture diagram for NEXT 2020</title>
+    <g id="Need_help_with_a_architecture_diagram_for_NEXT_2020_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_83">
+        <title>zone external - yellow</title>
+        <rect x="1032.6627" y="463" width="175.4802" height="291" fill="#fef7e0"/>
+        <text transform="translate(1042.6627 478)" fill="#757575">
+          <tspan font-family="Roboto" font-size="13" font-weight="700" fill="#757575" x="0" y="12">Store</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <title>zone external - purple</title>
+        <rect x="413" y="463" width="292.14286" height="291" fill="#ede7f7"/>
+        <text transform="translate(423 478)" fill="#757575">
+          <tspan font-family="Roboto" font-size="13" font-weight="700" fill="#757575" x="0" y="12">Ingest/Trigger</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <title>zone external - green</title>
+        <rect x="745.1429" y="463" width="266" height="291" fill="#e2f3ec"/>
+        <text transform="translate(755.1429 478)" fill="#757575">
+          <tspan font-family="Roboto" font-size="13" font-weight="700" fill="#757575" x="0" y="12">Process</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <rect x="765.1429" y="516" width="136" height="112" fill="white"/>
+        <rect x="765.1429" y="516" width="136" height="112" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path)"/>
+      </g>
+      <g id="Graphic_58">
+        <rect x="781.1429" y="576.5" width="104" height="1" fill="#dfdfdf"/>
+      </g>
+      <g id="Graphic_57">
+        <text transform="translate(819.9183 589.4)" fill="#757575">
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="9">Dataflow</tspan>
+        </text>
+      </g>
+      <g id="Graphic_56">
+        <text transform="translate(781.1429 538)" fill="#212121">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="24.671875" y="11">Streaming </tspan>
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="5.019531" y="25">Analytics Pipeline</tspan>
+        </text>
+      </g>
+      <g id="Group_122">
+        <g id="Graphic_13">
+          <rect x="571.14286" y="512.12245" width="114" height="56" fill="white"/>
+          <rect x="571.14286" y="512.12245" width="114" height="56" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_2)"/>
+          <text transform="translate(622.14286 526.12245)" fill="#212121">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="11">Cloud</tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="25">Storage</tspan>
+          </text>
+        </g>
+        <g id="Group_121">
+          <g id="Graphic_109">
+            <rect x="588.64286" y="530.12245" width="25" height="8.75" fill="#aecbfa"/>
+          </g>
+          <g id="Graphic_110">
+            <rect x="611.14286" y="530.12245" width="2.5" height="8.75" fill="#669df6"/>
+          </g>
+          <g id="Graphic_111">
+            <path d="M 613.64286 530.12245 L 611.14286 530.12245 L 611.14286 538.87245 Z" fill="#4285f4"/>
+          </g>
+          <g id="Graphic_112">
+            <rect x="588.64286" y="530.12245" width="2.5" height="8.75" fill="#669df6"/>
+          </g>
+          <g id="Graphic_113">
+            <rect x="593.64286" y="533.87245" width="7.5" height="1.25" fill="white"/>
+          </g>
+          <g id="Graphic_114">
+            <path d="M 606.39286 532.62245 L 607.14286 532.62245 C 607.9713 532.62245 608.64286 533.294 608.64286 534.12245 L 608.64286 534.87245 C 608.64286 535.7009 607.9713 536.37245 607.14286 536.37245 L 606.39286 536.37245 C 605.5644 536.37245 604.89286 535.7009 604.89286 534.87245 L 604.89286 534.12245 C 604.89286 533.294 605.5644 532.62245 606.39286 532.62245 Z" fill="white"/>
+          </g>
+          <g id="Graphic_115">
+            <rect x="588.64286" y="541.37245" width="25" height="8.75" fill="#aecbfa"/>
+          </g>
+          <g id="Graphic_116">
+            <rect x="611.14286" y="541.37245" width="2.5" height="8.75" fill="#669df6"/>
+          </g>
+          <g id="Graphic_117">
+            <path d="M 613.64286 541.37245 L 611.14286 541.37245 L 611.14286 550.12245 Z" fill="#4285f4"/>
+          </g>
+          <g id="Graphic_118">
+            <rect x="588.64286" y="541.37245" width="2.5" height="8.75" fill="#669df6"/>
+          </g>
+          <g id="Graphic_119">
+            <rect x="593.64286" y="545.12245" width="7.5" height="1.25" fill="white"/>
+          </g>
+          <g id="Graphic_120">
+            <path d="M 606.39286 543.87245 L 607.14286 543.87245 C 607.9713 543.87245 608.64286 544.544 608.64286 545.37245 L 608.64286 546.12245 C 608.64286 546.9509 607.9713 547.62245 607.14286 547.62245 L 606.39286 547.62245 C 605.5644 547.62245 604.89286 546.9509 604.89286 546.12245 L 604.89286 545.37245 C 604.89286 544.544 605.5644 543.87245 606.39286 543.87245 Z" fill="white"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_135">
+        <g id="Graphic_28">
+          <rect x="571.14286" y="625" width="114" height="56" fill="white"/>
+          <rect x="571.14286" y="625" width="114" height="56" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_3)"/>
+          <text transform="translate(622.14286 646)" fill="#212121">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="11">Pub/Sub</tspan>
+          </text>
+        </g>
+        <g id="Group_134">
+          <g id="Graphic_123">
+            <circle cx="609.7966" cy="648.2709" r="2.15598394748255" fill="#669df6"/>
+          </g>
+          <g id="Graphic_124">
+            <circle cx="592.38" cy="648.2709" r="2.15598394748255" fill="#669df6"/>
+          </g>
+          <g id="Graphic_125">
+            <circle cx="601.0883" cy="663.344" r="2.15598394748254" fill="#669df6"/>
+          </g>
+          <g id="Group_126">
+            <g id="Graphic_129">
+              <path d="M 600.5952 654.156 L 601.5888 652.435 L 610.2994 657.46405 L 609.30575 659.18506 Z" fill="#4285f4"/>
+            </g>
+            <g id="Graphic_128">
+              <path d="M 591.88554 657.4599 L 600.5961 652.43085 L 601.58975 654.1519 L 592.87916 659.1809 Z" fill="#4285f4"/>
+            </g>
+            <g id="Graphic_127">
+              <rect x="600.0947" y="643.23716" width="1.9872516" height="10.058118" fill="#4285f4"/>
+            </g>
+          </g>
+          <g id="Graphic_130">
+            <circle cx="601.0883" cy="653.2953" r="3.47769584572186" fill="#aecbfa"/>
+          </g>
+          <g id="Graphic_131">
+            <circle cx="592.38" cy="658.31965" r="2.73716222897784" fill="#aecbfa"/>
+          </g>
+          <g id="Graphic_132">
+            <circle cx="609.7966" cy="658.31965" r="2.73716222897784" fill="#aecbfa"/>
+          </g>
+          <g id="Graphic_133">
+            <circle cx="601.0883" cy="643.23716" r="2.73716222897775" fill="#aecbfa"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_151">
+        <title>Shape</title>
+        <g id="Graphic_163">
+          <path d="M 809.0208 588.4308 L 808.7508 587.493 L 807.3329 587.433 L 805.6225 588.39326 L 807.1454 589.8861 L 807.1229 591.61906 L 808.1356 591.6341 L 808.1581 589.9011 L 812.4042 592.4668 L 812.3892 593.53204 L 814.1596 593.55455 L 814.1596 591.50654 Z" fill="#669df6"/>
+        </g>
+        <g id="Graphic_162">
+          <path d="M 807.3329 587.433 L 805.90755 587.7706 L 805.6225 588.39326 L 800.3487 591.319 L 800.3262 593.3745 L 802.1116 593.397 L 802.1191 592.32424 L 806.4402 589.8786 L 806.4177 591.61156 L 807.2804 591.61906 Z" fill="#aecbfa"/>
+        </g>
+        <g id="Graphic_161">
+          <path d="M 807.3329 587.433 L 803.9196 585.4 L 802.1791 586.34525 L 805.6225 588.39326 L 807.3329 587.433 Z" fill="#669df6"/>
+        </g>
+        <g id="Graphic_160">
+          <path d="M 812.3217 598.4683 L 808.0156 600.9139 L 808.0381 599.18846 L 806.3202 599.16595 L 806.2976 600.8914 L 807.1229 603.367 L 808.5407 603.2545 L 808.8333 602.40676 L 814.0996 599.4735 L 814.1296 597.3805 L 812.3367 597.358 Z" fill="#669df6"/>
+        </g>
+        <g id="Graphic_159">
+          <path d="M 807.1229 603.367 L 803.6495 605.31 L 803.6045 605.31 L 801.9391 604.31974 L 805.4349 602.36175 L 807.1229 603.367 Z" fill="#669df6"/>
+        </g>
+        <g id="Graphic_158">
+          <path d="M 809.0208 588.4308 L 812.5092 586.4803 L 810.8438 585.49 L 810.7988 585.49 L 807.3329 587.433 Z" fill="#4285f4"/>
+        </g>
+        <g id="Graphic_157">
+          <path d="M 808.8333 602.40676 L 812.2766 604.4548 L 810.5887 605.4 L 810.5362 605.4 L 807.1229 603.367 Z" fill="#4285f4"/>
+        </g>
+        <g id="Graphic_156">
+          <path d="M 807.1229 603.367 L 805.4349 602.36175 L 800.2961 599.2935 L 800.2961 597.2905 L 802.0591 597.2905 L 802.0441 598.33324 L 806.2976 600.8989 L 806.3202 599.16595 L 807.1754 599.18095 Z" fill="#aecbfa"/>
+        </g>
+        <g id="Graphic_155">
+          <title>Oval</title>
+          <circle cx="813.3494" cy="595.4375" r="1.14028689333156" fill="#aecbfa"/>
+        </g>
+        <g id="Graphic_154">
+          <circle cx="801.10635" cy="595.2725" r="1.14028689333155" fill="#aecbfa"/>
+        </g>
+        <g id="Graphic_153">
+          <circle cx="807.2954" cy="593.3895" r="1.14028689333155" fill="#aecbfa"/>
+        </g>
+        <g id="Graphic_152">
+          <circle cx="807.1979" cy="597.403" r="1.14028689333156" fill="#aecbfa"/>
+        </g>
+      </g>
+      <g id="Group_213">
+        <g id="Graphic_96">
+          <rect x="1052.6627" y="528.5" width="136" height="87" fill="white"/>
+          <rect x="1052.6627" y="528.5" width="136" height="87" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_4)"/>
+        </g>
+        <g id="Graphic_95">
+          <rect x="1068.6627" y="576.5" width="104" height="1" fill="#dfdfdf"/>
+        </g>
+        <g id="Graphic_94">
+          <text transform="translate(1112.3311 589.4)" fill="#757575">
+            <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="9">BigQuery</tspan>
+          </text>
+        </g>
+        <g id="Graphic_93">
+          <text transform="translate(1065.3326 547.5)" fill="#212121">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="11">Object Tracking Data</tspan>
+          </text>
+        </g>
+        <g id="Group_206">
+          <title>Product_Icons</title>
+          <g id="Group_207">
+            <title>Shape</title>
+            <g id="Graphic_212">
+              <path d="M 1091.4875 593.9955 L 1091.4875 596.49384 C 1091.8812 597.1727 1092.44 597.7412 1093.1119 598.14675 L 1093.1119 593.9955 Z" fill="#aecbfa"/>
+            </g>
+            <g id="Graphic_211">
+              <path d="M 1094.4893 591.6966 L 1094.4893 598.8497 C 1094.8389 598.89436 1095.1913 598.9134 1095.5437 598.9067 C 1095.8601 598.9265 1096.1773 598.9265 1096.4937 598.9067 L 1096.4937 591.6966 Z" fill="#669df6"/>
+            </g>
+            <g id="Graphic_210">
+              <path d="M 1098.0516 594.9739 L 1098.0516 598.09926 C 1098.7271 597.6684 1099.2827 597.0736 1099.6665 596.37035 L 1099.6665 594.9739 Z" fill="#aecbfa"/>
+            </g>
+            <g id="Graphic_209">
+              <path d="M 1101.9464 599.2107 L 1100.5975 600.5596 C 1100.5209 600.6347 1100.4777 600.7374 1100.4777 600.8446 C 1100.4777 600.95184 1100.5209 601.05455 1100.5975 601.1296 L 1103.9603 604.4924 C 1104.1157 604.6457 1104.3654 604.6457 1104.5208 604.4924 L 1105.8792 603.134 C 1106.0325 602.9786 1106.0325 602.7289 1105.8792 602.5735 L 1102.5164 599.2107 C 1102.4413 599.1341 1102.3386 599.09095 1102.2314 599.09095 C 1102.1242 599.09095 1102.0214 599.1341 1101.9464 599.2107" fill="#4285f4"/>
+            </g>
+            <g id="Graphic_208">
+              <path d="M 1095.5437 585.6074 C 1090.822 585.6074 1086.9942 589.4352 1086.9942 594.15696 C 1086.9942 598.87875 1090.822 602.7065 1095.5437 602.7065 C 1100.2655 602.7065 1104.0933 598.87875 1104.0933 594.15696 C 1104.0933 589.4352 1100.2655 585.6074 1095.5437 585.6074 M 1095.5437 600.5121 C 1092.0416 600.5069 1089.2058 597.66544 1089.2076 594.1633 C 1089.2093 590.66116 1092.048 587.82255 1095.5501 587.8208 C 1099.0522 587.81905 1101.8937 590.6548 1101.8989 594.15696 C 1101.9014 595.8432 1101.2327 597.46116 1100.0403 598.6535 C 1098.848 599.8459 1097.23 600.51466 1095.5437 600.5121" fill="#669df6"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_223">
+        <text transform="translate(939.2245 619.0816)" fill="#757575">
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="9">Stream detections </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="21">filtered by entity and </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="33">confidence score</tspan>
+        </text>
+      </g>
+      <g id="Graphic_224">
+        <text transform="translate(907.1689 552.5)" fill="#757575">
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="9">Stream object tracking data </tspan>
+        </text>
+      </g>
+      <g id="Line_241">
+        <title>path arrow - grey primary</title>
+        <path d="M 901.1429 572 L 929.7653 572 L 929.7653 708.8222 L 1047.2429 708.8222" marker-end="url(#TreehouseArrow_Marker)" stroke="#616161" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_242">
+        <title>path arrow - grey primary</title>
+        <path d="M 901.1429 572.3828 L 901.1429 572 L 1042.7627 572" marker-end="url(#TreehouseArrow_Marker)" stroke="#616161" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_245">
+        <title>path arrow - grey primary</title>
+        <path d="M 685.14286 653 L 783.023 653 L 783.023 637.9" marker-end="url(#TreehouseArrow_Marker)" stroke="#616161" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_244">
+        <title>path arrow - grey primary</title>
+        <path d="M 628.14286 568.12245 L 628.14286 569.17985 L 628.14286 615.1" marker-end="url(#TreehouseArrow_Marker)" stroke="#616161" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_246">
+        <text transform="translate(635 581.48164)" fill="#757575">
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="9">Notify of new </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="21">uploads</tspan>
+        </text>
+      </g>
+      <g id="Graphic_247">
+        <text transform="translate(691.8032 657.2449)" fill="#757575">
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="9">Forward notifications </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="21">and file metadata</tspan>
+        </text>
+      </g>
+      <g id="Group_265">
+        <g id="Graphic_278">
+          <rect x="1057.1429" y="675.4187" width="136" height="66.80702" fill="white"/>
+          <rect x="1057.1429" y="675.4187" width="136" height="66.80702" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_5)"/>
+          <text transform="translate(1117.1429 701.8222)" fill="#212121">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="11">Pub/Sub</tspan>
+          </text>
+        </g>
+        <g id="Group_266">
+          <g id="Graphic_277">
+            <circle cx="1103.2561" cy="703.18045" r="2.57205102506687" fill="#669df6"/>
+          </g>
+          <g id="Graphic_276">
+            <circle cx="1082.4784" cy="703.18045" r="2.5720510250669" fill="#669df6"/>
+          </g>
+          <g id="Graphic_275">
+            <circle cx="1092.8672" cy="721.1624" r="2.57205102506693" fill="#669df6"/>
+          </g>
+          <g id="Group_271">
+            <g id="Graphic_274">
+              <path d="M 1092.279 710.2013 L 1093.4643 708.1481 L 1103.8559 714.1477 L 1102.6705 716.20085 Z" fill="#4285f4"/>
+            </g>
+            <g id="Graphic_273">
+              <path d="M 1081.8885 714.1428 L 1092.2801 708.1432 L 1093.4655 710.1963 L 1083.0739 716.1959 Z" fill="#4285f4"/>
+            </g>
+            <g id="Graphic_272">
+              <rect x="1091.6819" y="697.1753" width="2.3707563" height="11.999158" fill="#4285f4"/>
+            </g>
+          </g>
+          <g id="Graphic_270">
+            <circle cx="1092.8672" cy="709.1744" r="4.1488301317384" fill="#aecbfa"/>
+          </g>
+          <g id="Graphic_269">
+            <circle cx="1082.4784" cy="715.1684" r="3.26538651878056" fill="#aecbfa"/>
+          </g>
+          <g id="Graphic_268">
+            <circle cx="1103.2561" cy="715.1684" r="3.26538651878056" fill="#aecbfa"/>
+          </g>
+          <g id="Graphic_267">
+            <circle cx="1092.8672" cy="697.1753" r="3.26538651878053" fill="#aecbfa"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_279">
+        <title>Cloud Video Intelligence API</title>
+        <g id="Graphic_285">
+          <rect x="757.2553" y="689.8083" width="151.7751" height="52.41742" fill="white"/>
+          <rect x="757.2553" y="689.8083" width="151.7751" height="52.41742" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_6)"/>
+          <text transform="translate(808.2553 702.017)" fill="#212121">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="11">Cloud Video</tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="25">Intelligence API</tspan>
+          </text>
+        </g>
+        <g id="Group_280">
+          <title>Cloud Video Intelligence API</title>
+          <g id="Graphic_284">
+            <title>Fill-1</title>
+            <path d="M 798.1279 714.813 L 792.74205 705.4471 C 792.3102 704.6993 791.5276 704.2435 790.7223 704.2435 L 779.95035 704.2435 C 779.0873 704.2435 778.3336 704.7495 777.9304 705.4465 L 772.5445 714.7938 C 772.1131 715.5413 772.1422 716.43755 772.5439 717.13535 L 777.93 726.5441 C 778.36165 727.29165 779.1444 727.7904 779.9497 727.7904 L 790.7215 727.7904 C 791.585 727.7904 792.3385 727.2464 792.7416 726.5494 L 798.1275 717.1831 C 798.5592 716.4353 798.5299 715.5106 798.1279 714.813" fill="#4285f4"/>
+          </g>
+          <g id="Graphic_283">
+            <title>Fill-4</title>
+            <path d="M 791.4757 712.3974 L 790.5177 714.21664 L 787.998 711.717 L 785.50895 713.1523 L 786.6427 714.2879 L 786.107 714.2785 L 783.5445 711.717 L 780.1339 712.3323 L 779.1965 714.3788 L 780.4849 715.65956 L 779.1965 716.7849 L 780.6315 718.2448 L 779.1965 720.3169 L 786.6535 727.7903 L 790.7216 727.7903 C 791.5849 727.7903 792.3386 727.2465 792.7417 726.5495 L 797.4485 718.3636 Z" fill="black" fill-opacity=".07"/>
+          </g>
+          <g id="Graphic_282">
+            <title>Fill-6</title>
+            <path d="M 787.998 711.717 L 784.6027 711.717 L 785.5073 713.1503 L 786.76945 713.1503 L 786.76945 713.9693 L 784.9737 713.9693 L 783.54475 711.717 L 779.1968 711.717 L 779.1968 714.37885 L 780.422 714.37885 L 781.1958 712.9456 L 782.7761 712.9456 L 783.3001 713.7646 L 781.7226 713.7646 L 780.9489 715.1979 L 779.1968 715.1979 L 779.1968 716.7847 L 780.9489 716.7847 L 781.7226 718.2692 L 783.3001 718.2692 L 782.7761 719.0882 L 781.1958 719.0882 L 780.422 717.6549 L 779.1968 717.6549 L 779.1968 720.3168 L 783.54475 720.3168 L 784.9737 718.06445 L 786.76945 718.06445 L 786.76945 718.8835 L 785.5073 718.8835 L 784.6027 720.3168 L 787.998 720.3168 L 787.998 716.4264 L 784.0568 716.4264 L 783.5509 717.2454 L 782.4184 717.2454 L 783.1952 716.0169 L 782.4184 714.7884 L 783.5509 714.7884 L 784.0403 715.6068 L 787.998 715.6068 Z" fill="white"/>
+          </g>
+          <g id="Graphic_281">
+            <title>Fill-8</title>
+            <path d="M 791.4758 712.3974 L 789.0218 714.18 L 789.0218 717.9303 L 791.4758 719.7387 Z" fill="white"/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_286">
+        <title>path double arrow - grey primary</title>
+        <path d="M 833.1429 628 L 833.1429 633.9182 L 833.1429 679.9083" marker-end="url(#TreehouseArrow_Marker)" stroke="#616161" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_287">
+        <text transform="translate(842.9983 635.0408)" fill="#757575">
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="9">Analyze video </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="21">files through </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="33">micro batch </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="45">requests</tspan>
+        </text>
+      </g>
+      <g id="Graphic_290">
+        <text transform="translate(691.8032 520.08163)" fill="#757575">
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="0" y="9">Get video files</tspan>
+        </text>
+      </g>
+      <g id="Line_292">
+        <title>path arrow - grey primary</title>
+        <line x1="685.14286" y1="540.12245" x2="755.2429" y2="540.12245" marker-end="url(#TreehouseArrow_Marker)" stroke="#616161" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_307">
+        <rect x="427.12245" y="512.12245" width="100" height="56" fill="white"/>
+        <rect x="427.12245" y="512.12245" width="100" height="56" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_7)"/>
+        <text transform="translate(444.04335 526.12245)" fill="#212121">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="14.496094" y="11">Source</tspan>
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="25">Applications</tspan>
+        </text>
+      </g>
+      <g id="Line_308">
+        <line x1="527.12245" y1="540.12245" x2="561.24286" y2="540.12245" marker-end="url(#TreehouseArrow_Marker_2)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_309">
+        <title>zone external - yellow</title>
+        <rect x="1229.5402" y="463" width="135.2832" height="291" fill="#e3f2fd"/>
+        <text transform="translate(1239.5402 478)" fill="#757575">
+          <tspan font-family="Roboto" font-size="13" font-weight="700" fill="#757575" x="0" y="12">Act</tspan>
+        </text>
+      </g>
+      <g id="Graphic_310">
+        <rect x="1248.1516" y="544" width="100" height="56" fill="white"/>
+        <rect x="1248.1516" y="544" width="100" height="56" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_8)"/>
+        <text transform="translate(1271.9426 558)" fill="#212121">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="13.78711" y="11">Data</tspan>
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="25">Scientists</tspan>
+        </text>
+      </g>
+      <g id="Graphic_311">
+        <rect x="1248.1516" y="680.8222" width="100" height="56" fill="white"/>
+        <rect x="1248.1516" y="680.8222" width="100" height="56" stroke="#dfdfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" clip-path="url(#inner_stroke_clip_path_9)"/>
+        <text transform="translate(1265.0725 694.8222)" fill="#212121">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="5.5722656" y="11">Consumer</tspan>
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#212121" x="0" y="25">Applications</tspan>
+        </text>
+      </g>
+      <g id="Line_312">
+        <line x1="1238.2516" y1="572" x2="1188.6627" y2="572" marker-start="url(#TreehouseArrow_Marker_3)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_313">
+        <line x1="1238.2516" y1="708.8222" x2="1193.1429" y2="708.8222" marker-start="url(#TreehouseArrow_Marker_3)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_314">
+        <text transform="translate(529 495.83673)" fill="#757575">
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="3.8481445" y="9">Upload </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="7.544434" y="21">video </tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="#757575" x="10.291016" y="33">files</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

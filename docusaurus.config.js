@@ -31,9 +31,16 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh-CN'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      'zh-CN': {
+        htmlLang: 'zh-CN',
+      },
+    },
   },
-
   presets: [
     [
       'classic',
@@ -80,6 +87,10 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Doc',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'left',
           },
           {
             href: 'https://github.com/Interview-Science',
